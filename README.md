@@ -1,4 +1,6 @@
 # Fri
+> [!WARNING]
+> This software repo move to [New-Fri-Repo](https://sr.ht/~yui4140/Fri/)
 A minimalist App launcher
 ## Build
 Compile `nob.c` with your favorite C Compiler and run it
